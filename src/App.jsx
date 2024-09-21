@@ -1,9 +1,10 @@
 import React from 'react'
+import Splashscreen from './components/Splashscreen'
 
 const App = () => {
   return (
     <div>
-      <h1>hello Jonathan</h1>
+      <Splashscreen/>
     </div>
   )
 }
