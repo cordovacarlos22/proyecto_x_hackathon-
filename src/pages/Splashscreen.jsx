@@ -26,8 +26,8 @@ const Splashscreen = () => {
         <img
           className='mt-4'
           src={bussinesMan} alt="tall man " />
-        <button
-          to="#"
+        <Link
+          to="/register/talents"
         className='bg-blue-500 p-4 m-4 rounded-md hover:bg-blue-600'
         >
           <h2
@@ -35,7 +35,7 @@ const Splashscreen = () => {
           >
             empezar la aventura
           </h2>
-        </button>
+        </Link>
 
         <h2 className='text-white text-xl font-thin p-2 '>
           Conectando con empleos mediante IA
