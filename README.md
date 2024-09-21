@@ -1,1 +1,1 @@
-# proyecto_x_hackathon-
+Front end for JoblinkAI
